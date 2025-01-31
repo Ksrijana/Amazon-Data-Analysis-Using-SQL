@@ -40,13 +40,14 @@ The dataset consists of sales transactions from three Amazon branches located in
 
 ### 💡 Key Insights
 #### 1. Product Analysis: 
-- The 'Food and Beverages' product line is leading in both sales and revenue, with the highest Value Added Tax (VAT) and average ratings.
-- However, 'Home and Lifestyle' has the lowest average rating and may need     improvement in customer satisfaction and marketing efforts.
+- The 'Food and Beverages' product line leads in sales with a revenue of 56,144.84, followed by 'Sports and Travel' and 'Electronic Accessories'.
+- All product lines are performing well above the total sales average, showcasing strong demand, while 'Home and Lifestyle' has the lowest average rating (6.84), indicating potential areas for improvement in     
+  customer satisfaction.
 
 #### 2. Sales Analysis: 
-- Sales trends indicate that January had the highest revenue and cost of goods sold, highlighting it as a peak month.
-- All product lines exceed average total sales, suggesting consistent performance, while afternoon sales on weekdays show high shopping activity, which could be leveraged for promotions.
+- January recorded the highest revenue of 116,291.87, as well as the peak cost of goods sold at 110,754.16, highlighting it as the most profitable month
+- Afternoon hours see the most sales activity during weekdays, with 326 sales, emphasizing the importance of targeting this time slot.
 
 #### 3. Customer Analysis: 
-- 'Member' customers dominate transactions and revenue, showcasing their importance as a profitable segment.
-- Females are the predominant customer group, and Branch 'A' leads in customer count, reflecting opportunities for targeted strategies based on gender and branch-specific preferences.
+- 'Member' type customers dominate transactions, contributing the highest revenue and VAT payments, with 501 transactions and a VAT of 7,820.16.
+- Females are the predominant customer group with 501 transactions, and Branch 'A' in Yangon leads in customer count with 340 customers, consisting of 161 females and 179 males.
